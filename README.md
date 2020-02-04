@@ -1,4 +1,4 @@
-# national-parks-api
+# National-Parks-API
 async web apps, checkpoint 7
 
 # Requirements:
