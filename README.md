@@ -1,7 +1,7 @@
 # National-Parks-API
 async web apps, checkpoint 7
 
-# Requirements:
+## Requirements:
 The user must be able to search for parks in one or more states.
 The user must be able to set the max number of results, with a default of 10.
 The search must trigger a call to NPS's API.
