@@ -1,5 +1,7 @@
 # National-Parks-API
-async web apps, checkpoint 7
+API assignment for async web apps, checkpoint 7.
+
+Live Page:  https://cyborgtechie.github.io/national-parks-api/
 
 ## Requirements:
 * The user must be able to search for parks in one or more states.
